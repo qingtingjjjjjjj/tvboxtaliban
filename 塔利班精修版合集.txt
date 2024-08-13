@@ -226,6 +226,48 @@ Beyond_海阔天空,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/mda-jccg84g
 唱一首情歌_龙梅子/冷漠,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtpai5wUoyLvuugU.mp4
 唱一首情歌,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtpai5wUoyLvuugU.mp4
 
+🥸电影频道,#genre#
+
+神乐影院-1台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+神乐影院-2台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+大吉大利影院,https://pull.kktv8.com/livekktv/128600025.flv
+吃米滴虫✔原,http://159.75.85.63:35455/douyu/315457
+冰冰经典✔原,http://159.75.85.63:35455/douyu/74374
+星爷影院✔原,http://159.75.85.63:35455/douyu/508118
+凌儿影院✔原,http://159.75.85.63:35455/douyu/1377142
+
+小宇60帧✔原,http://159.75.85.63:35455/douyu/323876
+恐怖惊悚✔原,http://159.75.85.63:35455/douyu/96577
+電影劇場✔原,http://159.75.85.63:35455/douyu/7575350
+豆瓣高分✔原,http://159.75.85.63:35455/douyu/8770422
+花卷陪看✔原,http://159.75.85.63:35455/douyu/52787
+漫威剧情✔原,http://159.75.85.63:35455/douyu/6140589
+霍格沃茨✔原,http://159.75.85.63:35455/douyu/8814650
+鱼宝恐怖✔原,http://159.75.85.63:35455/douyu/1165374
+吃奶滴虫✔原,http://159.75.85.63:35455/douyu/263824
+变种人片✔原,http://159.75.85.63:35455/douyu/9651304
+喜剧电影✔原,http://159.75.85.63:35455/douyu/9292492
+女神电影✔原,http://159.75.85.63:35455/douyu/747764
+
+欧美大片✔原,http://159.75.85.63:35455/douyu/2793084
+贝爷max✔原,http://159.75.85.63:35455/douyu/4332
+贝爷影厅✔原,http://159.75.85.63:35455/douyu/252802
+凌儿影院✔原,http://maomao.kandiantv.cn/douyu1.php?id=1377142
+小宇60帧✔原,http://maomao.kandiantv.cn/douyu1.php?id=323876
+恐怖惊悚✔原,http://maomao.kandiantv.cn/douyu1.php?id=96577
+電影劇場✔原,http://maomao.kandiantv.cn/douyu1.php?id=7575350
+豆瓣高分✔原,http://maomao.kandiantv.cn/douyu1.php?id=8770422
+花卷陪看✔原,http://maomao.kandiantv.cn/douyu1.php?id=52787
+漫威剧情✔原,http://maomao.kandiantv.cn/douyu1.php?id=6140589
+霍格沃茨✔原,http://maomao.kandiantv.cn/douyu1.php?id=8814650
+鱼宝恐怖✔原,http://maomao.kandiantv.cn/douyu1.php?id=1165374
+吃奶滴虫✔原,http://maomao.kandiantv.cn/douyu1.php?id=263824
+变种人片✔原,http://maomao.kandiantv.cn/douyu1.php?id=9651304
+喜剧电影✔原,http://maomao.kandiantv.cn/douyu1.php?id=9292492
+女神电影✔原,http://maomao.kandiantv.cn/douyu1.php?id=747764
+欧美大片✔原,http://maomao.kandiantv.cn/douyu1.php?id=2793084
+贝爷影厅✔原,http://maomao.kandiantv.cn/douyu1.php?id=252802
+
 
 🥸央卫秒开,#genre#
 CCTV-1,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024078203.m3u8
@@ -291,6 +333,8 @@ CGT俄语,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024181903.m3u8
 重庆卫视,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024061103.m3u8
 新疆卫视,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2019927403.m3u8
 黑龙江视,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024061003.m3u8
+
+
 🥸奥运频道,#genre#
 CCTV-奥林匹克,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024083703.m3u8#p3p://108.181.32.169:12221/642610a2000b33ebee0a7d6c26c160b2#p3p://108.181.20.159:31364/632350a5000deee324e2a2bc22a37dd9#P2p://generationnexxxt.com:19806/3bb4c4f6ec8d45db81ede1415820dba0
 CCTV-体育赛事,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024078003.m3u8#p3p://108.181.20.159:31364/6323522b0000ad5c24e892c57ad041c7#p3p://108.181.32.169:12221/64260cbc00081417edfb42307c984dd4#P2p://generationnexxxt.com:19806/7ed1624a62004620bfecc83fe0b70935
