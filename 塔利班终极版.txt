@@ -1,4 +1,4 @@
-👑塔利班 4K直播,#genre#
+👑塔利班直播,#genre#
 
 🥸塔利班维护,https://vd2.bdstatic.com/mda-nccytxs33wk5c0z6/sc/cae_h264_delogo/1647213382954115936/mda-nccytxs33wk5c0z6.mp4
 关注QQ号,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/mda-jccg84gp61a7n0ms.mp4
@@ -6,11 +6,11 @@
 关注QQ群,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw4vG4gUozNe3-QM.mp4
 QQ群773958094,https://vd4.bdstatic.com/mda-phsnws15qhfmwaf1/hd/cae_h264/1693325998423644136/mda-phsnws15qhfmwaf1.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1712580057-0-0-6b79c403ef88ee2af316ee4351ce9634&bcevod_channel=searchbox_feed&pd=1&cr=1&cd=0&pt=4&logid=2457939310&vid=4117545868295419218&abtest=all
 🌹欢迎观看,http://mobi.kuwo.cn/tmevideo/tme1257697.mp4
-塔利班直播,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
 
 
-⭐️音乐MTV,#genre#
+⭐️音乐,#genre#
 烟雨人间,http://mobi.kuwo.cn/tmevideo/tme1257648.mp4
 阿果吉曲,http://mobi.kuwo.cn/tmevideo/tme1257695.mp4
 阿果吉曲,http://mobi.kuwo.cn/tmevideo/tme1257647.mp4
@@ -661,7 +661,7 @@ NHK,http://61.221.215.25:8800/hls/51/index.m3u8
 
 
 
-🥸塔利班直播,#genre#
+🥸VIP直播,#genre#
 🌒塔利班直播,https://vd2.bdstatic.com/mda-pmebuu7dbqhn0yx2/hd/cae_h264/1702649742166738269/mda-pmebuu7dbqhn0yx2.mp4?auth_key=1717125077-0-0-664d1149ead589ca774c74f09917ff36&bcevod_channel=searchbox_feed&pd=1&cr=1&cd=0&pt=4&logid=0677217795&vid=10434105645674545006&abtest=all
 🥸塔利班维护,https://vd3.bdstatic.com/mda-mi8iee21bndh1caw/hd/cae_h264/1631192960632939306/mda-mi8iee21bndh1caw.mp4?auth_key=1717567202-0-0-a15ed8c2a906ea31eb25503564bc7b45&bcevod_channel=searchbox_feed&pd=1&cr=1&cd=0&pt=4&logid=0002565416&vid=13129741298511064907&abtest=all
 VIP,https://vd3.bdstatic.com/mda-pgqkuqmm8w6apn0n/576p/h264/1690296321719842653/mda-pgqkuqmm8w6apn0n.mp4?auth_key=1717566173-0-0-6bc84d5146bce799cdf0f6d648156b43&bcevod_channel=searchbox_feed&pd=1&cr=1&cd=0&pt=4&logid=2573214858&vid=8014833498457707747&abtest=all
@@ -877,7 +877,7 @@ CCTV-17.农业农村[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/2
 
 
 
-🥸塔利班卫视,#genre#
+🥸卫视,#genre#
 湖南卫视[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 浙江卫视[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 江苏卫视[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
@@ -962,7 +962,7 @@ CCTV-17.农业农村[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/2
 黑龙江电视剧[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
 黑龙江电视剧[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8
 
-🥸塔利班|秒播央视,#genre#
+🥸秒播央视,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8CCTV1,http://[24:09:8087:1a:01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8CCTV1,http://[24:09:8087:1a:01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV2,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8CCTV2,http://[24:09:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV3,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index.m3u8
@@ -1082,7 +1082,7 @@ CCTV16,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 
 
-🥸塔利班|卫视,#genre#
+🥸卫视,#genre#
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
@@ -1264,7 +1264,7 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 
 
-🥸塔利班|影视,#genre#
+🥸影视,#genre#
 NOW 星影,http://120.211.93.113:8089/NOW星影/香蕉哥专用-易發TV.live.flv
 NOW 爆谷,http://120.211.93.113:8089/NOW爆谷/香蕉哥专用-易發TV.live.flv
 邵氏影院@代,http://mmitv.top:80/test/douyu.php?id=4246519
@@ -1400,7 +1400,7 @@ CHC家庭组播,http://111.167.224.47:8888/udp/225.1.1.213:5002
 平泉影院频道,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
 新昌休闲影院,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 
-🥸塔利班|斗鱼虎牙,#genre#
+🥸斗鱼虎牙,#genre#
 斗鱼电2y,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 斗鱼电影1y,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 斗鱼电影3y,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
@@ -1511,7 +1511,7 @@ CHC家庭组播,http://111.167.224.47:8888/udp/225.1.1.213:5002
 电影_梁家辉,https://live.metshop.top/huya/11342429
 电影_刘德华,https://live.metshop.top/huya/11342424
 
-🥸塔利班|咪咕,#genre#
+🥸咪咕,#genre#
 咪咕直播4K-1,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 咪咕直播4K-2,http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8
 咪咕直播-1,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
@@ -1558,7 +1558,7 @@ CHC家庭组播,http://111.167.224.47:8888/udp/225.1.1.213:5002
 咪咕直播-42,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 咪咕直播-43,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕直播-44,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-🥸塔利班|超级综合,#genre#
+🥸超级综合,#genre#
 重温经典卫星,http://117.114.153.25:8180/TV00000000000000000007@HHZT
 超级电影频道,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 南山有线台,http://113.64.145.55:8081/hls/18/index.m3u8
@@ -1701,7 +1701,7 @@ CHC家庭影院,https://epg.pw/stream/d6c6dcdce08fdda05114649d8ceaa9c9fbf5e05372
 粤语版电影二,http://43.138.170.29:35455/douyu/6566671
 粤语版电影三,http://43.138.170.29:35455/douyu/1226741
 
-🛰️塔利班|综合,#genre#
+🛰️综合,#genre#
 
 纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 金鹰卡通,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
