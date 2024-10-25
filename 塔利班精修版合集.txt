@@ -9931,10 +9931,8 @@ Z-108弃城（台湾恐怖片）,https://vip.lz-cdn17.com/20230612/15573_05723da
 黑色电话（美国恐怖片）,https://vip1.lz-cdn10.com/20220716/2039_90ab8c1d/index.m3u8
 黑色的房间(美国恐怖片),https://v.cdnlz11.com/20231219/18754_0550e892/index.m3u8
 黑色直播（韩国恐怖片）,https://v.cdnlz4.com/20240102/26505_d9527b6f/index.m3u8
-📝解锁密码,#genre#
-*476901432,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-*获取密码,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-💘一本正经_0518,#genre#
+
+     _0518,#genre#
 海外惊喜台
 1,http://124.71.57.119/WUXINGYUN.php?id=128
 3,http://124.71.57.119/WUXINGYUN.php?id=133
