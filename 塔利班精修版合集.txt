@@ -692,9 +692,20 @@ rock影综AKtv,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 美亚电视C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8 
 东森频道,http://108.181.20.215:43465
 东森电影台,http://8.138.7.223/tv/gdmzyd.php?id=7
+东森新闻台,https://edge1.laotv.la/live/DongsenMovie/index.m3u8
 东森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 東森戲劇台,http://38.55.237.218:9080/hls/123456.m3u8
+緯来体育,rtmp://f13h.mine.nu/sat/tv721
+緯来育乐,rtmp://f13h.mine.nu/sat/tv701
+緯来日本,rtmp://f13h.mine.nu/sat/tv771
+緯来篮球,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+緯来篮球,https://cloud.yumixiu768.com/tmp/123.m3u8
+緯来篮球,rtmp://f13h.mine.nu/sat/tv721
+緯来电影,http://108.181.20.215:44779
+緯来戏剧,http://108.181.20.215:39191
+緯来综合,http://108.181.20.215:36461
+緯来体育,http://108.181.20.215:42981
 MoMoTV,rtmp://f13h.mine.nu/sat/tv761
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8 
 香港卫视台,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
@@ -10045,30 +10056,7 @@ Z-108弃城（台湾恐怖片）,https://vip.lz-cdn17.com/20230612/15573_05723da
 
      _0518,#genre#
 海外惊喜台
-1,http://124.71.57.119/WUXINGYUN.php?id=128
-3,http://124.71.57.119/WUXINGYUN.php?id=133
-7,http://124.71.57.119/WUXINGJIN.php?id=1797
-8,http://124.71.57.119/WUXINGJIN.php?id=1800
-9,http://124.71.57.119/WUXINGJIN.php?id=1803
-10,http://124.71.57.119/WUXINGJIN.php?id=1807
-11,http://124.71.57.119/WUXINGJIN.php?id=1809
-13,http://124.71.57.119/WUXINGJIN.php?id=1810
-17,http://124.71.57.119/WUXINGJIN.php?id=1813
-18,http://124.71.57.119/WUXINGJIN.php?id=1814
-20,http://124.71.57.119/WUXINGJIN.php?id=1817
-21,http://124.71.57.119/WUXINGJIN.php?id=1818
-22,http://124.71.57.119/WUXINGJIN.php?id=1821
-WAAYH,http://124.71.57.119/WUXINGJIN.php?id=1828
-BarleyLegal,http://124.71.57.119/WUXINGJIN.php?id=1829
-Exottica,http://124.71.57.119/WUXINGJIN.php?id=1830
-FrenchLover,http://124.71.57.119/WUXINGJIN.php?id=1831
-Babes,http://124.71.57.119/WUXINGJIN.php?id=1832
-Red,http://124.71.57.119/WUXINGJIN.php?id=1833
-BrazzersTV,http://124.71.57.119/WUXINGJIN.php?id=1832
-BlueHustler,http://124.71.57.119/WUXINGJIN.php?id=1836
-DorcelTV,http://124.71.57.119/WUXINGJIN.php?id=1841
-HustlerHD,http://124.71.57.119/WUXINGJIN.php?id=1843
-XXL,http://124.71.57.119/WUXINGJIN.php?id=1845
+
 温泉老板娘吉川恋的特殊服务,https://t21.cdn2020.com/video/m3u8/2023/01/31/2be430ca/index.m3u8
 042320_001-1pon 魔女吉川莲的一本道下马作,https://t21.cdn2020.com/video/m3u8/2023/01/31/435c18b0/index.m3u8
 04年极品白丝嫩足,https://t21.cdn2020.com/video/m3u8/2023/02/01/18ac5bce/index.m3u8
@@ -10095,23 +10083,12 @@ XXL,http://124.71.57.119/WUXINGJIN.php?id=1845
 115,https://vip4.ddyunbo.com/20210223/I28Qes3F/index.m3u8?skipl=1
 116,https://vip4.ddyunbo.com/20210223/irFKB3O3/index.m3u8?skipl=1
 118,https://vip4.ddyunbo.com/20210223/lFsvEfoW/index.m3u8?skipl=1
-12,https://video2.51daao.com/btt1/2021/01/20210120/vgWAYAZo/index.m3u8
-121920_001-1pon 吉川莲的无限内射性爱,https://t21.cdn2020.com/video/m3u8/2023/01/31/0fda94ea/index.m3u8
 13,https://video2.51daao.com/btt1/2021/01/20210127/e4nE3H52/index.m3u8
 14,https://video2.51daao.com/btt1/2021/01/20210128/GpjqOwp7/index.m3u8
-15,https://video2.51daao.com/btt1/2021/01/20210128/uAjfPHbd/index.m3u8
-159惊艳台,p3p://108.181.20.159:05201/60626a1b00010e3e6f5a5a4f018e5ebe
-159松视2台,p3p://108.181.20.159:05201/60232b5f00007bc37850649979e379df
-159潘多拉,p3p://108.181.20.159:05201/5fe4450c000c918b829fca233c845311
-159香蕉台,p3p://108.181.20.159:05201/60626a760005067e6f5bbecb5816771e
-16,https://video2.51daao.com/btt1/2021/01/20210128/yvyxolSA/index.m3u8
-169松視3台,p3p://108.181.32.169:38362/650b8a0e000007df8f1b27da75d42f65
-169极限电影,p3p://108.181.32.169:38362/650b8b700004037d8f208fb144ea7e3f
 17,https://video2.51daao.com/btt1/2021/01/20210129/02gDjV83/index.m3u8
 18,https://video2.51daao.com/btt1/2021/01/20210130/ujDdta8s/index.m3u8
 18岁学妹背着男友偷情-唐伯虎,https://t21.cdn2020.com/video/m3u8/2023/03/07/7a58b113/index.m3u8
 18岁小嫩妹辍学做外围-田伯光,https://t21.cdn2020.com/video/m3u8/2023/04/13/d7cb73d8/index.m3u8
-19,https://video2.51daao.com/btt1/2021/01/20210131/7haGYFAa/index.m3u8
 19岁女大生的AV初体验,https://t21.cdn2020.com/video/m3u8/2023/03/20/f88b8a90/index.m3u8
 1pondo-22018_648 在职场被各种潜规则的美女OL-藤森里穗,https://t21.cdn2020.com/video/m3u8/2023/02/13/79ebfeaa/index.m3u8
 2,https://video2.51daao.com/btt1/2021/01/20210112/a1pA2jdF/index.m3u8
