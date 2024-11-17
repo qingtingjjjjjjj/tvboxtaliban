@@ -320,6 +320,24 @@ iHOT-爱院线,http://kxrj.site:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
 
 
 🌐央视频道,#genre#
+CCTV1,http://112.102.217.173:9003//hls/13/index.m3u8
+CCTV2,http://112.102.217.173:9003//hls/14/index.m3u8
+CCTV3,http://112.102.217.173:9003//hls/15/index.m3u8
+CCTV4,http://112.102.217.173:9003//hls/16/index.m3u8
+CCTV5,http://112.102.217.173:9003//hls/17/index.m3u8
+CCTV5+,http://112.102.217.173:9003//hls/18/index.m3u8
+CCTV6,http://112.102.217.173:9003//hls/19/index.m3u8
+CCTV7,http://112.102.217.173:9003//hls/20/index.m3u8
+CCTV8,http://112.102.217.173:9003//hls/21/index.m3u8
+CCTV9,http://112.102.217.173:9003//hls/22/index.m3u8
+CCTV10,http://112.102.217.173:9003//hls/23/index.m3u8
+CCTV11,http://112.102.217.173:9003//hls/24/index.m3u8
+CCTV12,http://112.102.217.173:9003//hls/25/index.m3u8
+CCTV13,http://112.102.217.173:9003//hls/26/index.m3u8
+CCTV14,http://112.102.217.173:9003//hls/27/index.m3u8
+CCTV15,http://112.102.217.173:9003//hls/28/index.m3u8
+CCTV16,http://112.102.217.173:9003//hls/29/index.m3u8
+CCTV17,http://112.102.217.173:9003//hls/30/index.m3u8
 
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
@@ -1298,6 +1316,154 @@ Now爆谷,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 
 
 💓台湾台📶,#genre#
+东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8  
+TVBS,http://37.27.111.214:8080/live/23/hls.m3u8  
+中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
+东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
+tvbs新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
+寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn14
+非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
+闽镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
+民视新闻,http://litv.zapi.us.kg/?id=litv-ftv13
+中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074
+华视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv052
+台视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv051
+民视闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv002
+民视闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv155
+中视闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv040
+华视闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv041
+台视闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv066
+寰宇闽南,http://litv.zapi.us.kg/?id=litv-longturn15
+tvbs闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv073
+民视台湾,http://litv.zapi.us.kg/?id=4gtv-4gtv001
+民视台湾,http://litv.zapi.us.kg/?id=4gtv-4gtv156
+民视第一,http://litv.zapi.us.kg/?id=4gtv-4gtv003
+民视旅游,http://litv.zapi.us.kg/?id=litv-ftv07
+民视影剧,http://litv.zapi.us.kg/?id=litv-ftv09
+民视综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv004
+中视菁采,http://litv.zapi.us.kg/?id=4gtv-4gtv064
+中视经典,http://litv.zapi.us.kg/?id=4gtv-4gtv080
+台视财经,http://litv.zapi.us.kg/?id=4gtv-4gtv056
+公视戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv042
+闽南戏剧,http://litv.zapi.us.kg/?id=litv-longturn22
+国际财经,http://litv.zapi.us.kg/?id=4gtv-4gtv104
+东森财经,http://litv.zapi.us.kg/?id=4gtv-4gtv153
+tvbs精采,http://litv.zapi.us.kg/?id=4gtv-4gtv067
+tvbs欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068
+八大精彩,http://litv.zapi.us.kg/?id=4gtv-4gtv034
+八大综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv039
+爱尔达娱乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv070
+靖洋戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv045
+靖洋卡通,http://litv.zapi.us.kg/?id=4gtv-4gtv057
+靖天卡通,http://litv.zapi.us.kg/?id=4gtv-4gtv044
+靖天综合,http://litv.zapi.us.kg/?id=4gtv-4gtv046
+靖天日本,http://litv.zapi.us.kg/?id=4gtv-4gtv047
+靖天欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv054
+靖天映画,http://litv.zapi.us.kg/?id=4gtv-4gtv055
+靖天戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv058
+靖天电影,http://litv.zapi.us.kg/?id=4gtv-4gtv061
+靖天育乐,http://litv.zapi.us.kg/?id=4gtv-4gtv062
+靖天国际,http://litv.zapi.us.kg/?id=4gtv-4gtv063
+靖天资讯,http://litv.zapi.us.kg/?id=4gtv-4gtv065
+龙华卡通,http://litv.zapi.us.kg/?id=litv-longturn01
+龙华日韩,http://litv.zapi.us.kg/?id=litv-longturn11
+龙华偶像,http://litv.zapi.us.kg/?id=litv-longturn12
+龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03
+龙华戏剧,http://litv.zapi.us.kg/?id=litv-longturn18
+龙华经典,http://litv.zapi.us.kg/?id=litv-longturn21
+国会壹台,http://litv.zapi.us.kg/?id=4gtv-4gtv084
+国会贰台,http://litv.zapi.us.kg/?id=4gtv-4gtv085
+好消息壹,http://litv.zapi.us.kg/?id=litv-ftv16
+好消息贰,http://litv.zapi.us.kg/?id=litv-ftv17
+智林体育,http://litv.zapi.us.kg/?id=4gtv-4gtv101
+博斯魅力,http://litv.zapi.us.kg/?id=litv-longturn04
+博斯网球,http://litv.zapi.us.kg/?id=litv-longturn09
+博斯高球壹台,http://litv.zapi.us.kg/?id=litv-longturn05
+博斯高球贰台,http://litv.zapi.us.kg/?id=litv-longturn06
+博斯运动壹台,http://litv.zapi.us.kg/?id=litv-longturn07
+博斯运动贰台,http://litv.zapi.us.kg/?id=litv-longturn08
+博斯无限壹台,http://litv.zapi.us.kg/?id=litv-longturn10
+博斯无限贰台,http://litv.zapi.us.kg/?id=litv-longturn13
+阿里郎台,http://litv.zapi.us.kg/?id=4gtv-4gtv079
+达文西台,http://litv.zapi.us.kg/?id=4gtv-4gtv018
+猪哥亮歌厅台,http://litv.zapi.us.kg/?id=4gtv-4gtv006
+亚洲旅游,http://litv.zapi.us.kg/?id=litv-longturn17
+美国之音,http://litv.zapi.us.kg/?id=litv-ftv03
+半岛新闻,http://litv.zapi.us.kg/?id=litv-ftv10
+非凡商业,http://litv.zapi.us.kg/?id=4gtv-4gtv048
+第壹商业,http://litv.zapi.us.kg/?id=4gtv-4gtv109
+爱放动漫,http://litv.zapi.us.kg/?id=litv-ftv15
+古典音乐,http://litv.zapi.us.kg/?id=4gtv-4gtv059
+客家电视,http://litv.zapi.us.kg/?id=4gtv-4gtv043
+华仁纪实,http://litv.zapi.us.kg/?id=4gtv-4gtv013
+时尚运动,http://litv.zapi.us.kg/?id=4gtv-4gtv014
+生活英语,http://litv.zapi.us.kg/?id=litv-longturn20
+采昌影剧,http://litv.zapi.us.kg/?id=4gtv-4gtv049
+数位电影,http://litv.zapi.us.kg/?id=4gtv-4gtv011
+Amc电影,http://litv.zapi.us.kg/?id=4gtv-4gtv017
+CAT电影,http://litv.zapi.us.kg/?id=4gtv-4gtv076
+TRA体育,http://litv.zapi.us.kg/?id=4gtv-4gtv077
+SMArt知识台,http://litv.zapi.us.kg/?id=litv-longturn19
+GLO-Bet,http://litv.zapi.us.kg/?id=4gtv-4gtv016
+TRACEU,http://litv.zapi.us.kg/?id=4gtv-4gtv082
+MEZZOl,http://litv.zapi.us.kg/?id=4gtv-4gtv083
+Ginx_TV,http://litv.zapi.us.kg/?id=4gtv-4gtv053
+
+tvbs闽南,http://61.221.215.25:8800/hls/9/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+动物星球国,http://61.221.215.25:8800/hls/57/index.m3u8
+民视闽南,rtmp://f13h.mine.nu/sat/tv051
+中视闽南,rtmp://f13h.mine.nu/sat/tv091
+华视闽南,rtmp://f13h.mine.nu/sat/tv111
+台视闽南,rtmp://f13h.mine.nu/sat/tv071
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+DAZN体育壹,rtmp://f13h.mine.nu/sat/tv731
+DAZN体育贰,rtmp://f13h.mine.nu/sat/tv741
+amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
+ASC搜索,http://61.221.215.25:8800/hls/50/index.m3u8
+Diso综合,http://61.221.215.25:8800/hls/1/index.m3u8
+momoTV,rtmp://f13h.mine.nu/sat/tv761
+东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
+tvbs闽南,http://37.27.111.214:8080/live/23/hls.m3u8
+民视闽南,http://37.27.111.214:8080/live/6/hls.m3u8
+中视闽南,http://37.27.111.214:8080/live/7/hls.m3u8
+华视闽南,http://37.27.111.214:8080/live/8/hls.m3u8
+民视第一,http://37.27.111.214:8080/live/4/hls.m3u8
+民视台湾,http://37.27.111.214:8080/live/5/hls.m3u8
+三立综合,http://37.27.111.214:8080/live/31/hls.m3u8
+tvbs欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
+龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
+猪哥亮歌厅国,http://37.27.111.214:8080/live/35/hls.m3u8
+亚洲旅游,http://37.27.111.214:8080/live/10/hls.m3u8
+幸福空间,http://37.27.111.214:8080/live/26/hls.m3u8
+HakkaTV,http://37.27.111.214:8080/live/1/hls.m3u8
+TiTV原视,http://37.27.111.214:8080/live/2/hls.m3u8
+动画动漫,http://37.27.111.214:8080/live/57/hls.m3u8
+Nick动画频壹,http://37.27.111.214:8080/live/12/hls.m3u8
+Nick动画频贰,http://37.27.111.214:8080/live/22/hls.m3u8
+MoMo亲子国,http://37.27.111.214:8080/live/3/hls.m3u8
+博斯高球频壹,http://37.27.111.214:8080/live/13/hls.m3u8
+博斯运动频壹,http://37.27.111.214:8080/live/14/hls.m3u8
+博斯无限,http://37.27.111.214:8080/live/15/hls.m3u8
+mTV音乐,http://37.27.111.214:8080/live/25/hls.m3u8
+HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
+HITs电影,http://37.27.111.214:8080/live/28/hls.m3u8
+探案电影,http://37.27.111.214:8080/live/11/hls.m3u8
+CINEMA-,http://37.27.111.214:8080/live/30/hls.m3u8
+TV5_MONDE,http://37.27.111.214:8080/live/9/hls.m3u8
+BLOOMBERG,http://37.27.111.214:8080/live/34/hls.m3u8
+DWnews,http://37.27.111.214:8080/live/46/hls.m3u8
+CNBc_英,http://37.27.111.214:8080/live/102/hls.m3u8
+互动英語,http://37.27.111.214:8080/live/54/hls.m3u8
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 八大戏剧,http://211.72.65.236:8531/.m3u8
@@ -7284,3 +7450,116 @@ FC2PPV-1271635 【生ドル?未修正】矢〇亜希子激似が声を我慢し�
 102,https://vip4.ddyunbo.com/20210223/I28Qes3F/index.m3u8?skipl=1
 103,https://vip4.ddyunbo.com/20210223/irFKB3O3/index.m3u8?skipl=1
 104,https://vip4.ddyunbo.com/20210223/lFsvEfoW/index.m3u8?skipl=1
+无码1,https://askzycdn.com/20240507/cwVnzlXp/index.m3u8 
+
+无码2,https://askzycdn.com/20240507/WkdsFPPT/index.m3u8 
+
+无码3,https://askzycdn.com/20240507/mhZIIFXJ/index.m3u8 
+
+无码4,https://askzycdn.com/20240507/OXqJ5zSL/index.m3u8 
+
+无码5,https://askzycdn.com/20240507/80fFUhyH/index.m3u8 
+
+无码6,https://askzycdn.com/20240504/co0xe9GJ/index.m3u8 
+
+无码7,https://askzycdn.com/20240504/nsj0aMxp/index.m3u8 
+
+无码8,https://askzycdn.com/20240504/sbItybZ7/index.m3u8 
+
+无码9,https://askzycdn.com/20240504/fsXBagDk/index.m3u8 
+
+无码11,https://askzycdn.com/20240504/TDdrBoz3/index.m3u8 
+
+无码12,https://askzycdn.com/20240504/ubsNUFAC/index.m3u8 
+
+无码13,https://askzycdn.com/20240504/2DWIrau5/index.m3u8 
+
+无码14,https://askzycdn.com/20240504/J9eDJnPO/index.m3u8 
+
+无码15,https://askzycdn.com/20240503/h9xYD5d9/index.m3u8 
+
+无码16,https://askzycdn.com/20240503/zJNBNnp8/index.m3u8 
+
+无码17,https://askzycdn.com/20240503/qVi4eBMs/index.m3u8 
+
+无码18,https://askzycdn.com/20240503/KChL733o/index.m3u8 
+
+无码19,https://askzycdn.com/20240501/GhNbYcgC/index.m3u8 
+
+无码20,https://askzycdn.com/20240501/85LEpyvM/index.m3u8 
+
+无码21,https://askzycdn.com/20240501/GhNbYcgC/index.m3u8 
+
+无码22,https://askzycdn.com/20240503/dAHKvqWF/index.m3u8 
+
+无码23,https://askzycdn.com/20240503/qVi4eBMs/index.m3u8 
+
+无码24,https://askzycdn.com/20240503/KChL733o/index.m3u8 
+
+无码25,https://askzycdn.com/20240501/GhNbYcgC/index.m3u8 
+
+无码26,https://askzycdn.com/20240501/hAatqj8c/index.m3u8 
+
+无码27,https://askzycdn.com/20240501/FbYuc6i6/index.m3u8 
+
+无码28,https://askzycdn.com/20240430/GFQmPRs2/index.m3u8 
+
+无码29,https://askzycdn.com/20240430/KXtG8Rvi/index.m3u8 
+
+无码30,https://askzycdn.com/20240430/Z6JsXNUL/index.m3u8 
+
+无码31,https://askzycdn.com/20240430/26kNXB2m/index.m3u8 
+
+无码32,https://askzycdn.com/20240430/kncJnmvY/index.m3u8 
+
+无码33,https://askzycdn.com/20240428/k8C7dOS7/index.m3u8 
+
+无码34,https://askzycdn.com/20240427/I2SVINg9/index.m3u8 
+
+无码35,https://askzycdn.com/20240427/GIClQxds/index.m3u8 
+
+无码36,https://askzycdn.com/20240426/7AgXUGLw/index.m3u8 
+
+无码37,https://askzycdn.com/20240426/auCGWKgf/index.m3u8 
+
+无码没38,https://askzycdn.com/20240426/co6M4v79/index.m3u8 
+
+无码39,https://askzycdn.com/20240426/VCfZTRb0/index.m3u8 
+
+无码40,https://askzycdn.com/20240426/VCfZTRb0/index.m3u8 
+
+无码41,https://askzycdn.com/20240422/2mfwdZ6D/index.m3u8 
+
+无码42,https://askzycdn.com/20240422/EZh3eDNH/index.m3u8 
+
+无码43,https://askzycdn.com/20240422/caNy5rUu/index.m3u8 
+
+I'm无码44,https://askzycdn.com/20240422/cNu3PrwN/index.m3u8 
+
+无码45,https://askzycdn.com/20240422/3TFLpBx9/index.m3u8 
+
+无码46,https://askzycdn.com/20240421/Sjhn3wTH/index.m3u8 
+
+无码47,https://askzycdn.com/20240421/mkqutQEN/index.m3u8 
+
+无码48,https://askzycdn.com/20240421/mxRXP997/index.m3u8 
+
+无码49,https://askzycdn.com/20240421/vfhs1N2l/index.m3u8 
+
+无码50,https://askzycdn.com/20240421/mxRXP997/index.m3u8 
+
+无码51,https://askzycdn.com/20240417/V8MTUZqH/index.m3u8 
+
+无码53,https://askzycdn.com/20240417/O1s8Dkt9/index.m3u8 
+
+无码54,https://askzycdn.com/20240416/pKpJMVcl/index.m3u8 
+
+无码55,https://askzycdn.com/20240416/sPv86vhr/index.m3u8 
+
+无码56,https://askzycdn.com/20240412/Fr6s2wNC/index.m3u8 
+
+无码57,https://askzycdn.com/20240412/igA95LQ1/index.m3u8 
+
+无码58,https://askzycdn.com/20240412/EH62jOFd/index.m3u8 
+
+无码59,https://askzycdn.com/20240412/IWquHK3l/index.m3u8
