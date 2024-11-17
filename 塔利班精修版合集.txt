@@ -616,7 +616,12 @@ NEWTV超级电视剧,http://[2409:8087:5e00:24::10]:6060/200000001898/4600000898
 N1905 极限反转 ,http://dns.yiandrive.com:16813/1905/1905a
 1905 环球经典 ,http://dns.yiandrive.com:16813/1905/1905b
 
-
+数位电影,https://litv.zapi.us.kg/?id=4gtv-4gtv011
+AMC电影,https://litv.zapi.us.kg/?id=4gtv-4gtv017
+CAT电影,https://litv.zapi.us.kg/?id=4gtv-4gtv076
+龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
+龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+龙华电影,http://211.72.65.236:8556/.m3u8
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv017
 AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
