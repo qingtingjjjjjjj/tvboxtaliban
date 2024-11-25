@@ -724,8 +724,7 @@ PopC电影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 纬来电影,http://211.72.65.236:8579/.m3u8
 纬来电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8579/.m3u8
 纬来电影,https://stream1.freetv.fun/722505b3aabbd0a31f226ee7ea22ff410e8ebc38f635956ecc1be637b1732c0b.m3u8
-爆谷台,http://223.244.26.190:8082/now星影.盗源者死全家/易發TV/hls.m3u8
-星影台,http://223.244.26.190:8082/now包谷.盗源者死全家/易發TV/hls.m3u8
+爆谷台,http://223.244.26.190:8082/now包谷.盗源者死全家/易發TV/hls.m3u8
 爆谷台,https://tv.mytvsuper.xyz/1/baogutai/baogu.m3u8
 星影台,https://tv.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
 星河台,https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
