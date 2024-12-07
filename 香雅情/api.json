@@ -73,7 +73,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+            "ext": "file://TV/alitoken.txt"
         },
         {
             "key": "csp_Yisou",
@@ -83,7 +83,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+            "ext": "file://TV/alitoken.txt"
         },
         {
             "key": "csp_Upyunso",
@@ -93,7 +93,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+            "ext": "file://TV/alitoken.txt"
         },
         {
             "key": "csp_XYQHiker_影搜",
@@ -133,7 +133,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+            "ext": "file://TV/alitoken.txt"
         },
         {
             "key": "csp_Mp4Mov",
@@ -143,7 +143,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.domp4.cc"
+            "ext": "https://www.padmp4.com"
         },
         {
             "key": "csp_New6v",
@@ -240,7 +240,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.yjys02.com"
+            "ext": "https://www.yjys05.com"
         },
         {
             "key": "csp_XYQHiker_哔嘀影视",
@@ -270,7 +270,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://112.124.0.131:20000"
+            "ext": "http://apijp.rinhome.com"
         },
         {
             "key": "csp_Ikanbot",
@@ -391,6 +391,36 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./json/Bili短剧.json"
+        },
+        {
+            "key": "csp_XYQHiker_爱你短剧",
+            "name": "爱你短剧",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/爱你短剧.json"
+        },
+        {
+            "key": "csp_XYQHiker_河马短剧",
+            "name": "河马短剧",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/河马短剧.json"
+        },
+        {
+            "key": "csp_XYQHiker_短剧屋",
+            "name": "短剧屋",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/短剧屋.json"
         },
         {
             "key": "csp_XYQHiker_农民影视",
